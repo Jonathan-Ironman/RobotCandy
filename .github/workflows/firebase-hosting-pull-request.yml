@@ -15,4 +15,3 @@ jobs:
           projectId: robotcandy-nl
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
-# TODO this will not work as it is in the wrong repo
