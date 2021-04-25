@@ -5,6 +5,25 @@
     <link>https://RobotCandy.nl/</link>
     <description>Recent content on RobotCandy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://RobotCandy.nl/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://RobotCandy.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artwork Design</title>
+      <link>https://RobotCandy.nl/portfolio/project-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://RobotCandy.nl/portfolio/project-1/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Website live</title>
+      <link>https://RobotCandy.nl/blog/post-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://RobotCandy.nl/blog/post-1/</guid>
+      <description>Site setup with Hugo. It is very nice&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

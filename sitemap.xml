@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://RobotCandy.nl/portfolio/project-1/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://RobotCandy.nl/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://RobotCandy.nl/categories/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://RobotCandy.nl/categories/design/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://RobotCandy.nl/categories/development/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://RobotCandy.nl/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://RobotCandy.nl/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://RobotCandy.nl/blog/post-1/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://RobotCandy.nl/about/</loc>
+  </url><url>
+    <loc>https://RobotCandy.nl/contact/</loc>
   </url><url>
     <loc>https://RobotCandy.nl/tags/</loc>
   </url>
