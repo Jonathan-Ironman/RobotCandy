@@ -1,0 +1,10 @@
+.footer-section {
+  padding-top: 0;
+}
+
+.bg-primary {
+  background-image: var(--background-image) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}

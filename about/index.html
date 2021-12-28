@@ -7,11 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="About the owner">
   <meta name="author" content="Jonathan IJzerman">
-  <meta name="generator" content="Hugo 0.82.0" />
+  <meta name="generator" content="Hugo 0.83.0" />
 
   <style>
-    :root{
-      --primary-color:#3c3882;
+    :root {
+      --primary-color: #3c3882;
+      --background-image: url(/images/backgrounds/city.png);
     }
   </style>
 
@@ -32,6 +33,13 @@
   <link rel="shortcut icon" href="https://RobotCandy.nl/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://RobotCandy.nl/images/favicon.png " type="image/x-icon">
 
+  <!--Custom CSS-->
+  <link rel="stylesheet" href="https://RobotCandy.nl/css/overrides.css">
+  
+
+  <!--Custom JS-->
+  
+
   
 	<!-- Global Site Tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-G30N3CFJ64"></script>
@@ -43,7 +51,6 @@
 	  gtag('config', 'G-G30N3CFJ64');
 	</script>
 	
-
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -147,17 +154,33 @@ Buiten werk kun je me met mooi weer aantreffen op de terrassen van Breda waar ik
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary"><a href="mailto:info@robotcandy.nl">info@robotcandy.nl</a></p>
+          <p class="text-white paragraph-lg font-secondary"><a
+              href="mailto:info@robotcandy.nl">info@robotcandy.nl</a></p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary"><a href="tel:&#43;31%206%2049871443">&#43;31 6 49871443</a></p>
+          <p class="text-white paragraph-lg font-secondary"><a
+              href="tel:&#43;31%206%2049871443">&#43;31 6 49871443</a></p>
         </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
+        <div class="col-md-3">
+          <h5 class="text-light">Location</h5>
           <p class="text-white paragraph-lg font-secondary">Breda</p>
+        </div>
+        <div class="col-md-3">
+          <h5 class="text-light">Social</h5>
+          <p class="text-white paragraph-lg font-secondary">
+            
+            
+            <a class="text-white" href="https://www.linkedin.com/in/jonathanijzerman/"><i class="ti-linkedin"></i></a>
+            
+            <a class="text-white" href="https://stackoverflow.com/users/2407212/jonathan?tab=profile"><i class="ti-stack-overflow"></i></a>
+            
+            <a class="text-white" href="https://github.com/Jonathan-Ironman"><i class="ti-github"></i></a>
+            
+            
+          </p>
         </div>
       </div>
     </div>
@@ -203,7 +226,7 @@ Buiten werk kun je me met mooi weer aantreffen op de terrassen van Breda waar ik
 			cookieBox.classList.remove('cookie-box-hide');
 			cookieButton.onclick = function () {
 				Cookies.set('cookie-box', true, {
-					expires:  2 
+					expires:  7 
 				});
 				cookieBox.classList.add('cookie-box-hide');
 			};
