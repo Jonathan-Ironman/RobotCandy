@@ -2,9 +2,16 @@
   padding-top: 0;
 }
 
-.bg-primary {
-  background-image: var(--background-image) !important;
+.background-image {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+}
+
+.main-background-image {
+  background-image: var(--main-background-image) !important;
+}
+
+h1 {
+  text-shadow: 3px 3px 14px #0e083e;
 }
