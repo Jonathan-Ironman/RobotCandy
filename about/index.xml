@@ -4,7 +4,8 @@
     <title>About on RobotCandy</title>
     <link>https://RobotCandy.nl/about/</link>
     <description>Recent content in About on RobotCandy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://RobotCandy.nl/about/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://RobotCandy.nl/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
